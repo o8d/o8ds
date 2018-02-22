@@ -40,7 +40,7 @@
     "versionPublish": "4.6.3",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/icon-01-127x83-1.png",
     "noImageResize": ""
   },
   "pages": {
